@@ -1,4 +1,4 @@
-Hi 👋 My name is Alexandra Adelson
+Hi 👋 My name is Alexandra
 ==================================
 
 Web Developer | JS | React | REST API

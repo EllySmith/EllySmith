@@ -1,7 +1,7 @@
 Hi 👋 My name is Alexandra Adelson
 ==================================
 
-Front-end Developer | JS | React
+Web Developer | JS | React | REST API
 ------------------
 
 
